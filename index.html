@@ -443,6 +443,9 @@ button{font:inherit;letter-spacing:inherit}
 .gcard .im img{max-height:100%;max-width:100%;object-fit:contain;display:block}
 .gcard.scene .im{background:var(--g2)}
 .gcard.scene .im img{width:100%;height:100%;object-fit:cover}
+.gcard.wide{grid-column:span 2}
+.gcard.wide .im{aspect-ratio:16/9}
+@media (max-width:560px){.gcard.wide{grid-column:span 2}}
 .gcard b{font-size:12.5px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .gcard span{font-size:11px;color:var(--ink-faint);font-weight:600}
 .count{font-size:13px;color:var(--ink-faint);font-weight:600}
@@ -578,7 +581,7 @@ button{font:inherit;letter-spacing:inherit}
   <section id="gallery" class="wide">
     <p class="section-label">Samples</p>
     <h2 class="sec-title">샘플 보관소 <span class="count" id="gcount"></span></h2>
-    <p class="sec-sub">앵커를 참조해 뽑은 결과물. 카드를 누르면 크게 보여요.</p>
+    <p class="sec-sub">이 캐릭터로 지금까지 뽑은 전부. 캐릭터 시트, 파리지앵 20종, 2027 새해 두 차례, 세배 시퀀스, 극장 의상 42세트의 키비주얼과 포즈, 공용 포즈, 블로그 인포그래픽 160장. 카드를 누르면 크게 보여요.</p>
     <div class="chips" id="chips"></div>
     <div class="ggrid" id="ggrid"></div>
   </section>
@@ -638,7 +641,8 @@ const PAGES=[
   {file:'06_paris.png',       title:'파리지앵 20종',      place:'2026 Autumn'},
   {file:'07_theater.png',     title:'극장 의상 42종',     place:'AI Concept Theater'},
   {file:'08_newyear.png',     title:'2027 붉은 양의 해',  place:'Reels 9:16'},
-  {file:'09_rules.png',       title:'일관성 규칙',        place:'Do · Don’t'}
+  {file:'09_info.png',        title:'블로그 인포그래픽 160장', place:'40 Episodes × 4'},
+  {file:'10_rules.png',       title:'일관성 규칙',        place:'Do · Don’t'}
 ];
 PAGES.forEach(p=>p.url=DIR+p.file);
 const M=PAGES.length, LAND=0;
@@ -1145,11 +1149,18 @@ function openLB(src,t,s){$('#lbImg').src=src;$('#lbT').textContent=t;$('#lbS').t
 $('#lb').onclick=()=>$('#lb').classList.remove('on');
 let filter='전체';
 function renderGallery(){
-  const all=[...SHEETS,...DATA.paris,...NEWYEAR,...(DATA.sebae||[]),...DATA.keys];
+  const theater=[];
+  for(const k of DATA.keys){
+    if(k.dup)continue;
+    const g='극장 의상 · '+k.group;
+    theater.push({file:k.file,name:k.name+' · 기본',group:g});
+    for(const p of (k.poses||[]))theater.push({file:p.file,name:k.name+' · '+p.name,group:g});
+  }
+  const all=[...SHEETS,...DATA.paris,...NEWYEAR,...(DATA.sebae||[]),...(DATA.newyear_v1||[]),...theater,...(DATA.common||[]),...(DATA.info||[])];
   const groups=['전체',...new Set(all.map(x=>x.group))];
   $('#chips').innerHTML=groups.map(g=>`<button class="chip ${g===filter?'on':''}" data-g="${g}">${g}</button>`).join('');
   const list=filter==='전체'?all:all.filter(x=>x.group===filter);
-  $('#ggrid').innerHTML=list.map(x=>`<figure class="gcard ${x.scene?'scene':''}" data-src="${x.file}" data-t="${x.name}" data-s="${x.group}"><div class="im"><img src="${x.file}" alt="${x.name}" loading="lazy"></div><b>${x.name}</b><span>${x.group}</span></figure>`).join('');
+  $('#ggrid').innerHTML=list.map(x=>`<figure class="gcard ${x.scene?'scene':''} ${x.wide?'wide':''}" data-src="${x.file}" data-t="${x.name}" data-s="${x.group}"><div class="im"><img src="${x.file}" alt="${x.name}" loading="lazy"></div><b>${x.name}</b><span>${x.group}</span></figure>`).join('');
   $('#gcount').textContent=`${list.length}장`;
 }
 $('#chips').addEventListener('click',e=>{const c=e.target.closest('.chip');if(!c)return;filter=c.dataset.g;renderGallery();});

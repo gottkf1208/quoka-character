@@ -5,294 +5,1176 @@
    "slug": "e1-agent-mcp",
    "name": "아쿠아 후드",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e1-agent-mcp_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/e1-agent-mcp_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    }
+   ]
   },
   {
    "file": "assets/samples/e2-seed.webp",
    "slug": "e2-seed",
    "name": "노란 우비",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e2-seed_dice.webp",
+     "pose": "dice",
+     "name": "주사위"
+    },
+    {
+     "file": "assets/char/e2-seed_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/e2-seed_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/e2-seed_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/e2-seed_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/e3-diffusion.webp",
    "slug": "e3-diffusion",
    "name": "화가 앞치마",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e3-diffusion_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/e3-diffusion_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/e3-diffusion_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/e3-diffusion_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/e4-plausible.webp",
    "slug": "e4-plausible",
    "name": "탐정 코트",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e4-plausible_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/e4-plausible_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/e4-plausible_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/e5-context.webp",
    "slug": "e5-context",
    "name": "카디건",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e5-context_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/e5-context_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/e5-context_think.webp",
+     "pose": "think",
+     "name": "생각"
+    }
+   ]
   },
   {
    "file": "assets/samples/e6-rag.webp",
    "slug": "e6-rag",
    "name": "조끼와 넥타이",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/e6-rag_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/e6-rag_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/e6-rag_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    }
+   ]
   },
   {
    "file": "assets/samples/hero-wide.webp",
    "slug": "hero-wide",
    "name": "히어로 와이드",
    "group": "히어로",
-   "dup": false
+   "dup": false,
+   "poses": []
   },
   {
    "file": "assets/samples/hero.webp",
    "slug": "hero",
    "name": "히어로(극장 의자·팝콘)",
    "group": "히어로",
-   "dup": false
+   "dup": false,
+   "poses": []
   },
   {
    "file": "assets/samples/n1-consistency.webp",
    "slug": "n1-consistency",
    "name": "사진사 조끼",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n1-consistency_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/n1-consistency_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n1-consistency_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    },
+    {
+     "file": "assets/char/n1-consistency_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/n1-consistency_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/n2-video-cost.webp",
    "slug": "n2-video-cost",
    "name": "검은 터틀넥",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n2-video-cost_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/n2-video-cost_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n2-video-cost_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    },
+    {
+     "file": "assets/char/n2-video-cost_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/n3-english-prompt.webp",
    "slug": "n3-english-prompt",
    "name": "데님 재킷",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n3-english-prompt_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/n3-english-prompt_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n3-english-prompt_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    },
+    {
+     "file": "assets/char/n3-english-prompt_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/n3-english-prompt_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/n4-reasoning.webp",
    "slug": "n4-reasoning",
    "name": "초록 조끼",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n4-reasoning_glass.webp",
+     "pose": "glass",
+     "name": "돋보기"
+    },
+    {
+     "file": "assets/char/n4-reasoning_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/n4-reasoning_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n4-reasoning_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/n4-reasoning_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/n5-vibecoding.webp",
    "slug": "n5-vibecoding",
    "name": "개발자 후드",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n5-vibecoding_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/n5-vibecoding_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n5-vibecoding_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    },
+    {
+     "file": "assets/char/n5-vibecoding_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/n5-vibecoding_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/n6-ai-label.webp",
    "slug": "n6-ai-label",
    "name": "앞치마",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/n6-ai-label_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/n6-ai-label_tablet.webp",
+     "pose": "tablet",
+     "name": "태블릿"
+    },
+    {
+     "file": "assets/char/n6-ai-label_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/n6-ai-label_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-avatar.webp",
    "slug": "s3-avatar",
    "name": "보라 스카프",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-avatar_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-avatar_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-avatar_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-avatar_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-music.webp",
    "slug": "s3-music",
    "name": "DJ 헤드폰",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-music_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-music_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-music_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-music_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-role.webp",
    "slug": "s3-role",
    "name": "줄무늬 셔츠",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-role_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-role_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-role_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-role_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-subtitle.webp",
    "slug": "s3-subtitle",
    "name": "연두 셔츠",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-subtitle_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-subtitle_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-subtitle_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-subtitle_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-vision.webp",
    "slug": "s3-vision",
    "name": "실험 가운",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-vision_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-vision_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-vision_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-vision_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s3-voice.webp",
    "slug": "s3-voice",
    "name": "성우 헤드셋",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s3-voice_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s3-voice_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s3-voice_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s3-voice_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-calc.webp",
    "slug": "s4-calc",
    "name": "하늘색 셔츠",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-calc_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-calc_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-calc_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-calc_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-choose.webp",
    "slug": "s4-choose",
    "name": "남색 재킷",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-choose_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-choose_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-choose_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-choose_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-grading.webp",
    "slug": "s4-grading",
    "name": "심판 셔츠",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-grading_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-grading_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-grading_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-grading_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-privacy.webp",
    "slug": "s4-privacy",
    "name": "형광 조끼",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-privacy_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-privacy_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-privacy_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-privacy_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-search.webp",
    "slug": "s4-search",
    "name": "기자 조끼",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-search_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-search_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-search_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-search_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s4-sycophancy.webp",
    "slug": "s4-sycophancy",
    "name": "노란 스웨터",
    "group": "극장 v1",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s4-sycophancy_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s4-sycophancy_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s4-sycophancy_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s4-sycophancy_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-controlnet.webp",
    "slug": "s5-controlnet",
    "name": "인형극 조끼",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-controlnet_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-controlnet_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-controlnet_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-controlnet_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-degradation.webp",
    "slug": "s5-degradation",
    "name": "복원가 앞치마",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-degradation_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-degradation_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-degradation_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-degradation_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-guidance.webp",
    "slug": "s5-guidance",
    "name": "지휘자 연미복",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-guidance_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-guidance_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-guidance_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-guidance_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-long-video.webp",
    "slug": "s5-long-video",
    "name": "마라톤 러너",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-long-video_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-long-video_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-long-video_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-long-video_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-motion-prompt.webp",
    "slug": "s5-motion-prompt",
    "name": "모션 디자이너 후드",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-motion-prompt_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-motion-prompt_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-motion-prompt_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-motion-prompt_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/s5-upscale.webp",
    "slug": "s5-upscale",
    "name": "픽셀 머플러 가운",
    "group": "심화",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/s5-upscale_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/s5-upscale_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/s5-upscale_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/s5-upscale_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w1-santa.webp",
    "slug": "w1-santa",
    "name": "산타",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w1-santa_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w1-santa_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w1-santa_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w1-santa_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w10-ski.webp",
    "slug": "w10-ski",
    "name": "스키복",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w10-ski_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w10-ski_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w10-ski_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w10-ski_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w2-reindeer.webp",
    "slug": "w2-reindeer",
    "name": "순록 스웨터",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w2-reindeer_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w2-reindeer_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w2-reindeer_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w2-reindeer_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w3-snow.webp",
    "slug": "w3-snow",
    "name": "패딩·눈",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w3-snow_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w3-snow_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w3-snow_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w3-snow_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w4-elf.webp",
    "slug": "w4-elf",
    "name": "엘프",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w4-elf_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w4-elf_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w4-elf_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w4-elf_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w5-baker.webp",
    "slug": "w5-baker",
    "name": "진저브레드 제빵사",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w5-baker_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w5-baker_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w5-baker_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w5-baker_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w6-skater.webp",
    "slug": "w6-skater",
    "name": "더플코트 스케이터",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w6-skater_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w6-skater_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w6-skater_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w6-skater_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w7-librarian.webp",
    "slug": "w7-librarian",
    "name": "겨울 사서",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w7-librarian_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w7-librarian_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w7-librarian_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w7-librarian_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w8-overcoat.webp",
    "slug": "w8-overcoat",
    "name": "회색 오버코트",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w8-overcoat_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w8-overcoat_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w8-overcoat_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w8-overcoat_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   },
   {
    "file": "assets/samples/w9-lineman.webp",
    "slug": "w9-lineman",
    "name": "전기 작업자",
    "group": "겨울",
-   "dup": false
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/w9-lineman_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/w9-lineman_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/w9-lineman_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/w9-lineman_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   }
  ],
  "paris": [
@@ -446,6 +1328,1242 @@
    "file": "assets/sebae/05_복주머니_환호.webp",
    "name": "복주머니 환호",
    "group": "세배 시퀀스",
+   "scene": true
+  }
+ ],
+ "common": [
+  {
+   "file": "assets/poses/base.webp",
+   "name": "기본",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/dice.webp",
+   "name": "주사위",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/glass.webp",
+   "name": "돋보기",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/globe.webp",
+   "name": "지구본",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/idea.webp",
+   "name": "아이디어",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/oops.webp",
+   "name": "놀람",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/point.webp",
+   "name": "가리키기",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/tablet.webp",
+   "name": "태블릿",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/think.webp",
+   "name": "생각",
+   "group": "극장 공용 포즈"
+  },
+  {
+   "file": "assets/poses/wave.webp",
+   "name": "인사",
+   "group": "극장 공용 포즈"
+  }
+ ],
+ "info": [
+  {
+   "file": "assets/info/E01_1.webp",
+   "name": "E01 · AI가 글 쓰는 법",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E01_2.webp",
+   "name": "E01 · 연구와 공식 문서",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E01_3.webp",
+   "name": "E01 · 온도가 바꾸는 것",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E01_4.webp",
+   "name": "E01 · 교실 체크리스트",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E02_1.webp",
+   "name": "E02 · 질문만 올라가지 않아요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E02_2.webp",
+   "name": "E02 · 100만 토큰의 함정",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E02_3.webp",
+   "name": "E02 · 5학년이 사라진 이유",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E02_4.webp",
+   "name": "E02 · 학년 안 잊게 하는 법",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E03_1.webp",
+   "name": "E03 · 좋은 질문의 네 조각",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E03_2.webp",
+   "name": "E03 · 연구와 가이드의 근거",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E03_3.webp",
+   "name": "E03 · 한 줄 vs 네 조각",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E03_4.webp",
+   "name": "E03 · 보내기 전 체크리스트",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E04_1.webp",
+   "name": "E04 · 자신 있게 틀리는 AI",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E04_2.webp",
+   "name": "E04 · 20%는 지어낼 수밖에",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E04_3.webp",
+   "name": "E04 · 채점 바꾸면 순위 역전",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E04_4.webp",
+   "name": "E04 · 모르면 모른다고 해 줘",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E05_1.webp",
+   "name": "E05 · 교과서 펴고 시험 보기",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E05_2.webp",
+   "name": "E05 · 머리말로 실패 반토막",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E05_3.webp",
+   "name": "E05 · 외톨이 조각은 못 찾아",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E05_4.webp",
+   "name": "E05 · [1]을 눌러 보세요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E06_1.webp",
+   "name": "E06 · 4명이라고? 3명인데!",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E06_2.webp",
+   "name": "E06 · 14배 큰 모델과 동급",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E06_3.webp",
+   "name": "E06 · 생각 깊이를 고르세요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E06_4.webp",
+   "name": "E06 · 성적 수식은 높음으로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E07_1.webp",
+   "name": "E07 · 보이는 표시+숨은 표시",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E07_2.webp",
+   "name": "E07 · 숫자로 본 AI 표시",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E07_3.webp",
+   "name": "E07 · 파일 속 영양성분표",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E07_4.webp",
+   "name": "E07 · 업로드 전 4가지 체크",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E08_1.webp",
+   "name": "E08 · 학생 이름은 어디로?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E08_2.webp",
+   "name": "E08 · 최대 5년 보관될 수도",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E08_3.webp",
+   "name": "E08 · 이름 대신 학생A",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E08_4.webp",
+   "name": "E08 · 넣기 전 3초 점검",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E09_1.webp",
+   "name": "E09 · 같은 말인데 밤과 낮",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E09_2.webp",
+   "name": "E09 · 시드는 약간만 도와요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E09_3.webp",
+   "name": "E09 · 시드 42 두 번이면?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E09_4.webp",
+   "name": "E09 · 4가지만 적어 두세요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E10_1.webp",
+   "name": "E10 · 왜 글자만 뭉개질까?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E10_2.webp",
+   "name": "E10 · 글자 실력 4년 성적표",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E10_3.webp",
+   "name": "E10 · 3덩어리 vs 11글자",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E10_4.webp",
+   "name": "E10 · 중요한 글자는 나중에",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E11_1.webp",
+   "name": "E11 · 글이 그림 되는 통로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E11_2.webp",
+   "name": "E11 · 한국어 웹은 0.84%",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E11_3.webp",
+   "name": "E11 · 괄호 속 영어 한 줄",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E11_4.webp",
+   "name": "E11 · 언어보다 다섯 칸",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E12_1.webp",
+   "name": "E12 · 귀도 털색도 매번 달라",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E12_2.webp",
+   "name": "E12 · 2,200만 개면 충분",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E12_3.webp",
+   "name": "E12 · 사진은 다른 통로로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E12_4.webp",
+   "name": "E12 · 정면 사진 한 장부터",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E13_1.webp",
+   "name": "E13 · 왜 쿼카는 안 움직였나",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E13_2.webp",
+   "name": "E13 · 소리까지 붙은 4년",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E13_3.webp",
+   "name": "E13 · 여섯 축+소리 한 줄",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E13_4.webp",
+   "name": "E13 · 대사는 따옴표에 넣어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E14_1.webp",
+   "name": "E14 · 8초면 그림 192장",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E14_2.webp",
+   "name": "E14 · 1080p는 8초까지만",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E14_3.webp",
+   "name": "E14 · 계산량은 약 340배",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E14_4.webp",
+   "name": "E14 · 크레딧 아끼는 순서",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E15_1.webp",
+   "name": "E15 · 글자가 목소리로 변신",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E15_2.webp",
+   "name": "E15 · 목소리도 생체정보예요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E15_3.webp",
+   "name": "E15 · 녹음 3초면 충분했어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E15_4.webp",
+   "name": "E15 · 목소리 쓰기 전 체크",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E16_1.webp",
+   "name": "E16 · 사회 시간이 사회시장?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E16_2.webp",
+   "name": "E16 · 효과 68%, 부작용도",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E16_3.webp",
+   "name": "E16 · 한소리가 끼어든 이유",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E16_4.webp",
+   "name": "E16 · 번역 전에 자막부터",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E17_1.webp",
+   "name": "E17 · 일정 3개 넣은 비결",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E17_2.webp",
+   "name": "E17 · MCP는 누구 것일까",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E17_3.webp",
+   "name": "E17 · AI용 USB-C 단자",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E17_4.webp",
+   "name": "E17 · 초대 보내기 전 멈춤",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E18_1.webp",
+   "name": "E18 · 사진 보고 좌표를 콕",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E18_2.webp",
+   "name": "E18 · 72% 대 12%",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E18_3.webp",
+   "name": "E18 · 줄었지만 0은 아니에요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E18_4.webp",
+   "name": "E18 · 제출 버튼은 사람이",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E19_1.webp",
+   "name": "E19 · 흰 글씨가 준 100점",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E19_2.webp",
+   "name": "E19 · 위험 1번은 목표 탈취",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E19_3.webp",
+   "name": "E19 · 지시와 자료가 한 줄로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E19_4.webp",
+   "name": "E19 · 읽기만 켜고 맡겨요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E20_1.webp",
+   "name": "E20 · AI엔 계산기가 없어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E20_2.webp",
+   "name": "E20 · 지식엔 마감일이 있어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E20_3.webp",
+   "name": "E20 · 도구 끄면 끝자리 틀려",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E20_4.webp",
+   "name": "E20 · 흔적 없는 숫자는 검산",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E21_1.webp",
+   "name": "E21 · 한마디 뒤 생긴 주소",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E21_2.webp",
+   "name": "E21 · 비공개여도 공개돼요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E21_3.webp",
+   "name": "E21 · 열쇠는 방 하나만",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E21_4.webp",
+   "name": "E21 · 토큰 만들기 전 4가지",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E22_1.webp",
+   "name": "E22 · 사진을 잘라 읽는 AI",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E22_2.webp",
+   "name": "E22 · 30초면 7,890토큰",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E22_3.webp",
+   "name": "E22 · 글로 바꾸면 억양 손실",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E22_4.webp",
+   "name": "E22 · 영상은 10~30초만",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E23_1.webp",
+   "name": "E23 · 26명을 기억한 비결",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E23_2.webp",
+   "name": "E23 · 가운데 정보는 덜 써요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E23_3.webp",
+   "name": "E23 · 창을 작고 또렷하게",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E23_4.webp",
+   "name": "E23 · 학기 초 메모장 점검",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E24_1.webp",
+   "name": "E24 · 걔가 제일 날 이해해요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E24_2.webp",
+   "name": "E24 · 쓸수록 더 외로웠다",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E24_3.webp",
+   "name": "E24 · 벌써 가? 더 얘기하자",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E24_4.webp",
+   "name": "E24 · 혼내기 전에 물어봐요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E25_1.webp",
+   "name": "E25 · 동그라미 하나 뺐을 뿐",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E25_2.webp",
+   "name": "E25 · 논문이 본 열화의 정체",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E25_3.webp",
+   "name": "E25 · 복사본을 또 복사하면",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E25_4.webp",
+   "name": "E25 · 고칠 땐 원본에서 다시",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E26_1.webp",
+   "name": "E26 · 도윤이 도훈이 됐어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E26_2.webp",
+   "name": "E26 · 속인 비율 약 50%",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E26_3.webp",
+   "name": "E26 · 흐린 획, 그럴듯한 답",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E26_4.webp",
+   "name": "E26 · 키우기 전 원본부터",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E27_1.webp",
+   "name": "E27 · 예측은 매번 두 번",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E27_2.webp",
+   "name": "E27 · 타이밍이 결과를 뒤집어",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E27_3.webp",
+   "name": "E27 · 강도 15면 색이 타요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E27_4.webp",
+   "name": "E27 · 7.5에서 시작하세요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E28_1.webp",
+   "name": "E28 · 뼈대 넣자 한 번에 딱",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E28_2.webp",
+   "name": "E28 · 원본 실력은 잠가 둬요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E28_3.webp",
+   "name": "E28 · 화가 옆에 자세 코치",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E28_4.webp",
+   "name": "E28 · 자세는 뼈대에게 맡겨요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E29_1.webp",
+   "name": "E29 · 20초엔 딴 쿼카",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E29_2.webp",
+   "name": "E29 · 1200프레임의 비결",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E29_3.webp",
+   "name": "E29 · 연습과 실전이 달라요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E29_4.webp",
+   "name": "E29 · 30초는 짧게 쪼개요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E30_1.webp",
+   "name": "E30 · '그게'는 가방일까?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E30_2.webp",
+   "name": "E30 · 자료 줬더니 더 틀렸다",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E30_3.webp",
+   "name": "E30 · 손 든 만큼 듣는 AI",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E30_4.webp",
+   "name": "E30 · 규정집 넣기 전 체크",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E31_1.webp",
+   "name": "E31 · '휴대폰' 0건인데?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E31_2.webp",
+   "name": "E31 · 65시간이 5초로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E31_3.webp",
+   "name": "E31 · 방향이 같으면 가깝다",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E31_4.webp",
+   "name": "E31 · 엉뚱한 조항 거르기",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E32_1.webp",
+   "name": "E32 · 마음에 든다니 칭찬만",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E32_2.webp",
+   "name": "E32 · 50% 더 맞장구",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E32_3.webp",
+   "name": "E32 · 채점기가 아첨을 배워요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E32_4.webp",
+   "name": "E32 · 칭찬 신호 끄는 4단계",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E33_1.webp",
+   "name": "E33 · 9세대 뒤엔 산토끼만",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E33_2.webp",
+   "name": "E33 · 원본 10%가 버팀목",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E33_3.webp",
+   "name": "E33 · 드문 말부터 사라져요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E33_4.webp",
+   "name": "E33 · 원본은 따로 모아 두기",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E34_1.webp",
+   "name": "E34 · 가중치 파일이 내 손에",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E34_2.webp",
+   "name": "E34 · 같은 무료, 다른 조건",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E34_3.webp",
+   "name": "E34 · 일하는 건 3B뿐",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E34_4.webp",
+   "name": "E34 · 내려받기 전 이 칸부터",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E35_1.webp",
+   "name": "E35 · 비행기 모드에도 돼요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E35_2.webp",
+   "name": "E35 · 2비트까지 줄였어요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E35_3.webp",
+   "name": "E35 · 6GB가 0.75GB로",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E35_4.webp",
+   "name": "E35 · 이름은 기기 안에서",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E36_1.webp",
+   "name": "E36 · 자리만 바꿔도 뒤집혀요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E36_2.webp",
+   "name": "E36 · AI 심판도 편애해요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E36_3.webp",
+   "name": "E36 · 두 번 물으면 들켜요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E36_4.webp",
+   "name": "E36 · AI 점수는 초안이에요",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E37_1.webp",
+   "name": "E37 · 프롬프트는 한 칸뿐",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E37_2.webp",
+   "name": "E37 · 학생 12, 교사 15",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E37_3.webp",
+   "name": "E37 · 사용법만 세 차시?",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E37_4.webp",
+   "name": "E37 · 빈 열이 보강할 곳",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E38_1.webp",
+   "name": "E38 · AI 표시, 법이 됐다",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E38_2.webp",
+   "name": "E38 · 1월 시행, 8월 적용",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E38_3.webp",
+   "name": "E38 · 진짜 같을수록 보이게",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E38_4.webp",
+   "name": "E38 · 올리기 전 한 줄 표시",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E39_1.webp",
+   "name": "E39 · 물 한 병? 다섯 방울",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E39_2.webp",
+   "name": "E39 · 6년 만에 전력 두 배",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E39_3.webp",
+   "name": "E39 · 작업 따라 천 배 차이",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E39_4.webp",
+   "name": "E39 · 영상은 질문 수백 번",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E40_1.webp",
+   "name": "E40 · 광고 대신 문서 네 장",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E40_2.webp",
+   "name": "E40 · 평가에 쓰면 고영향",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E40_3.webp",
+   "name": "E40 · 점수보다 센 관문 둘",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  },
+  {
+   "file": "assets/info/E40_4.webp",
+   "name": "E40 · 도입 전 캡처 네 장",
+   "group": "블로그 인포그래픽",
+   "scene": true,
+   "wide": true
+  }
+ ],
+ "newyear_v1": [
+  {
+   "file": "assets/newyear_v1/양01_한옥마당_인사.webp",
+   "name": "양01 · 한옥마당 · 인사",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/양02_동해_일출.webp",
+   "name": "양02 · 동해 · 일출",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/양03_세배.webp",
+   "name": "양03 · 세배",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/양04_연날리기.webp",
+   "name": "양04 · 연날리기",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/양05_불꽃놀이.webp",
+   "name": "양05 · 불꽃놀이",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/한복01_색동저고리_복주머니.webp",
+   "name": "한복01 · 색동저고리 · 복주머니",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/한복02_파스텔_당의풍.webp",
+   "name": "한복02 · 파스텔 · 당의풍",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/한복03_두루마기_호건.webp",
+   "name": "한복03 · 두루마기 · 호건",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/한복04_생활한복_카페.webp",
+   "name": "한복04 · 생활한복 · 카페",
+   "group": "2027 새해 1차(보관)",
+   "scene": true
+  },
+  {
+   "file": "assets/newyear_v1/한복05_금박_궁중.webp",
+   "name": "한복05 · 금박 · 궁중",
+   "group": "2027 새해 1차(보관)",
    "scene": true
   }
  ]

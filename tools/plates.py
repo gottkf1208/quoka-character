@@ -167,9 +167,26 @@ d.text((GUT + 34, BY0 + 50), "설빔 한복 5종", font=f(30, True), fill=INK)
 d.text((BX0 + 34, BY1 - 100), "한옥·청사초롱·솟대·방패연·떡국·색동·호건·당의. 홍등과 중국식 처마는 프롬프트에서 금지.", font=f(14), fill=SUB)
 save(im, 8, "newyear")
 
+# ---------------- 09 blog infographics (40 of 160)
+im = base_canvas(); d = ImageDraw.Draw(im)
+header(d, "BLOG INFOGRAPHICS · 40 EPISODES x 4", 'L', 9); header(d, "블로그 인포그래픽 160장", 'R', 9)
+infos = sorted(glob.glob(A("assets/info", "E*_1.webp")))[:40]
+for k, fp in enumerate(infos):
+    page, j = divmod(k, 20); r, c = divmod(j, 5)
+    x0 = (BX0 if page == 0 else GUT) + 22 + c * 150; y0 = BY0 + 70 + r * 140
+    pic = Image.open(fp).convert("RGBA"); pic = fit(pic, 142, 80)
+    m = Image.new("L", pic.size, 0); ImageDraw.Draw(m).rounded_rectangle((0, 0, pic.width - 1, pic.height - 1), radius=8, fill=255); pic.putalpha(m)
+    im.alpha_composite(pic, (x0, y0))
+    d = ImageDraw.Draw(im)
+    d.text((x0, y0 + 86), os.path.basename(fp)[:3], font=f(11, True), fill=MUTED)
+d.text((BX0 + 34, BY0 + 46), "E01 ~ E20", font=f(22, True), fill=INK)
+d.text((GUT + 34, BY0 + 46), "E21 ~ E40", font=f(22, True), fill=INK)
+d.text((GUT + 34, BY1 - 44), "편당 4장, 프리미엄 글래스 스타일(gpt_image_2_5 high 16:9). 1번 장만 표시.", font=f(14), fill=SUB)
+save(im, 9, "info")
+
 # ---------------- 10 rules
 im = base_canvas(); d = ImageDraw.Draw(im)
-header(d, "CONSISTENCY RULES", 'L', 9); header(d, "일관성 규칙", 'R', 9)
+header(d, "CONSISTENCY RULES", 'L', 10); header(d, "일관성 규칙", 'R', 10)
 do = ["앵커 이미지를 image_references로 첨부하고 마스터 프롬프트로 시작해요.", "둥근 머리 · 큰 검은 눈 · 작은 코 · 짧은 주둥이 · 작고 둥근 귀. 비율을 바꾸는 말은 넣지 않아요.",
       "새 의상 세트는 키비주얼부터 뽑고, 포즈는 그 키비주얼을 참조해요.", "소품은 한 개만. 모자·베레모·헤드폰은 허용.", "투명 PNG → 여백 트림 → 세로 900px webp로 저장(극장 규격)."]
 dont = ["얼굴을 넓적하게 그리는 표현(wide face, chubby cheeks). 몸은 통통해도 얼굴 폭은 고정.", "앵커 없이 글로만 생성하기. 다른 캐릭터가 나와요.",
@@ -184,5 +201,5 @@ for page, (title, items, fg, bg, mark) in enumerate((("해도 되는 것", do, G
         for ln in lines:
             d.text((x + 44, y + 3), ln, font=f(17), fill=INK); y += 28
         y += 20
-save(im, 9, "rules")
+save(im, 10, "rules")
 print("done")
