@@ -103,7 +103,7 @@ for k, v in rows:
     d.text((x, y), k, font=f(16, True), fill=MUTED); d.text((x + 120, y), v, font=f(17), fill=INK); y += 36
     d.line((x, y - 6, BX1 - 48, y - 6), fill=LINE)
 y += 14; px = x
-for t, fg, bg in (("눈썹 있음", GREEN, GREENBG), ("팔·발 연결", GREEN, GREENBG), ("얼굴 폭 고정", RED, REDBG), ("눈 간격 고정", GREEN, GREENBG), ("골든 브라운", GREEN, GREENBG)):
+for t, fg, bg in (("낙엽 없음", RED, REDBG), ("얼굴 폭 고정", RED, REDBG), ("눈 간격 고정", GREEN, GREENBG), ("골든 브라운", GREEN, GREENBG)):
     px = pill(d, px, y, t, fg, bg, f(15, True))
 save(im, 1, "cover")
 

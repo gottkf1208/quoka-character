@@ -2567,29 +2567,29 @@
    "scene": true
   }
  ],
- "sheets_v1": [
+ "sheets_v2": [
   {
-   "file": "assets/sheets/v1_눈썹없음/01_turnaround.webp",
-   "name": "턴어라운드 (1차, 눈썹 없음)",
-   "group": "캐릭터 시트 1차(보관)",
+   "file": "assets/sheets/v2_눈썹_보관/01_turnaround.webp",
+   "name": "턴어라운드 (눈썹 버전, 보관)",
+   "group": "캐릭터 시트 눈썹 버전(보관)",
    "scene": true
   },
   {
-   "file": "assets/sheets/v1_눈썹없음/02_expressions.webp",
-   "name": "표정 시트 (1차, 눈썹 없음)",
-   "group": "캐릭터 시트 1차(보관)",
+   "file": "assets/sheets/v2_눈썹_보관/02_expressions.webp",
+   "name": "표정 시트 (눈썹 버전, 보관)",
+   "group": "캐릭터 시트 눈썹 버전(보관)",
    "scene": true
   },
   {
-   "file": "assets/sheets/v1_눈썹없음/03_poses.webp",
-   "name": "포즈 시트 (1차, 눈썹 없음)",
-   "group": "캐릭터 시트 1차(보관)",
+   "file": "assets/sheets/v2_눈썹_보관/03_poses.webp",
+   "name": "포즈 시트 (눈썹 버전, 보관)",
+   "group": "캐릭터 시트 눈썹 버전(보관)",
    "scene": true
   },
   {
-   "file": "assets/sheets/v1_눈썹없음/04_colors.webp",
-   "name": "색 · 재질 (1차, 눈썹 없음)",
-   "group": "캐릭터 시트 1차(보관)",
+   "file": "assets/sheets/v2_눈썹_보관/04_colors.webp",
+   "name": "색 · 재질 (눈썹 버전, 보관)",
+   "group": "캐릭터 시트 눈썹 버전(보관)",
    "scene": true
   }
  ]
