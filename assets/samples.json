@@ -1,0 +1,452 @@
+{
+ "keys": [
+  {
+   "file": "assets/samples/e1-agent-mcp.webp",
+   "slug": "e1-agent-mcp",
+   "name": "아쿠아 후드",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/e2-seed.webp",
+   "slug": "e2-seed",
+   "name": "노란 우비",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/e3-diffusion.webp",
+   "slug": "e3-diffusion",
+   "name": "화가 앞치마",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/e4-plausible.webp",
+   "slug": "e4-plausible",
+   "name": "탐정 코트",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/e5-context.webp",
+   "slug": "e5-context",
+   "name": "카디건",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/e6-rag.webp",
+   "slug": "e6-rag",
+   "name": "조끼와 넥타이",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/hero-wide.webp",
+   "slug": "hero-wide",
+   "name": "히어로 와이드",
+   "group": "히어로",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/hero.webp",
+   "slug": "hero",
+   "name": "히어로(극장 의자·팝콘)",
+   "group": "히어로",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n1-consistency.webp",
+   "slug": "n1-consistency",
+   "name": "사진사 조끼",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n2-video-cost.webp",
+   "slug": "n2-video-cost",
+   "name": "검은 터틀넥",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n3-english-prompt.webp",
+   "slug": "n3-english-prompt",
+   "name": "데님 재킷",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n4-reasoning.webp",
+   "slug": "n4-reasoning",
+   "name": "초록 조끼",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n5-vibecoding.webp",
+   "slug": "n5-vibecoding",
+   "name": "개발자 후드",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/n6-ai-label.webp",
+   "slug": "n6-ai-label",
+   "name": "앞치마",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-avatar.webp",
+   "slug": "s3-avatar",
+   "name": "보라 스카프",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-music.webp",
+   "slug": "s3-music",
+   "name": "DJ 헤드폰",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-role.webp",
+   "slug": "s3-role",
+   "name": "줄무늬 셔츠",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-subtitle.webp",
+   "slug": "s3-subtitle",
+   "name": "연두 셔츠",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-vision.webp",
+   "slug": "s3-vision",
+   "name": "실험 가운",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s3-voice.webp",
+   "slug": "s3-voice",
+   "name": "성우 헤드셋",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-calc.webp",
+   "slug": "s4-calc",
+   "name": "하늘색 셔츠",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-choose.webp",
+   "slug": "s4-choose",
+   "name": "남색 재킷",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-grading.webp",
+   "slug": "s4-grading",
+   "name": "심판 셔츠",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-privacy.webp",
+   "slug": "s4-privacy",
+   "name": "형광 조끼",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-search.webp",
+   "slug": "s4-search",
+   "name": "기자 조끼",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s4-sycophancy.webp",
+   "slug": "s4-sycophancy",
+   "name": "노란 스웨터",
+   "group": "극장 v1",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-controlnet.webp",
+   "slug": "s5-controlnet",
+   "name": "인형극 조끼",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-degradation.webp",
+   "slug": "s5-degradation",
+   "name": "복원가 앞치마",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-guidance.webp",
+   "slug": "s5-guidance",
+   "name": "지휘자 연미복",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-long-video.webp",
+   "slug": "s5-long-video",
+   "name": "마라톤 러너",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-motion-prompt.webp",
+   "slug": "s5-motion-prompt",
+   "name": "모션 디자이너 후드",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/s5-upscale.webp",
+   "slug": "s5-upscale",
+   "name": "픽셀 머플러 가운",
+   "group": "심화",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w1-santa.webp",
+   "slug": "w1-santa",
+   "name": "산타",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w10-ski.webp",
+   "slug": "w10-ski",
+   "name": "스키복",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w2-reindeer.webp",
+   "slug": "w2-reindeer",
+   "name": "순록 스웨터",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w3-snow.webp",
+   "slug": "w3-snow",
+   "name": "패딩·눈",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w4-elf.webp",
+   "slug": "w4-elf",
+   "name": "엘프",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w5-baker.webp",
+   "slug": "w5-baker",
+   "name": "진저브레드 제빵사",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w6-skater.webp",
+   "slug": "w6-skater",
+   "name": "더플코트 스케이터",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w7-librarian.webp",
+   "slug": "w7-librarian",
+   "name": "겨울 사서",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w8-overcoat.webp",
+   "slug": "w8-overcoat",
+   "name": "회색 오버코트",
+   "group": "겨울",
+   "dup": false
+  },
+  {
+   "file": "assets/samples/w9-lineman.webp",
+   "slug": "w9-lineman",
+   "name": "전기 작업자",
+   "group": "겨울",
+   "dup": false
+  }
+ ],
+ "paris": [
+  {
+   "file": "assets/paris/01_가죽재킷_메타안경.webp",
+   "slug": "01_가죽재킷_메타안경",
+   "name": "가죽재킷 · 메타안경",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/02_트렌치코트_바게트.webp",
+   "slug": "02_트렌치코트_바게트",
+   "name": "트렌치코트 · 바게트",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/03_브르통_베레모.webp",
+   "slug": "03_브르통_베레모",
+   "name": "브르통 · 베레모",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/04_카멜코트_터틀넥.webp",
+   "slug": "04_카멜코트_터틀넥",
+   "name": "카멜코트 · 터틀넥",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/05_블랙터틀넥_금테안경.webp",
+   "slug": "05_블랙터틀넥_금테안경",
+   "name": "블랙터틀넥 · 금테안경",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/06_트위드재킷_핸드백.webp",
+   "slug": "06_트위드재킷_핸드백",
+   "name": "트위드재킷 · 핸드백",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/07_피코트_비니.webp",
+   "slug": "07_피코트_비니",
+   "name": "피코트 · 비니",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/08_벨벳블레이저_스카프.webp",
+   "slug": "08_벨벳블레이저_스카프",
+   "name": "벨벳블레이저 · 스카프",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/09_카페바리스타.webp",
+   "slug": "09_카페바리스타",
+   "name": "카페바리스타",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/10_몽마르트르화가.webp",
+   "slug": "10_몽마르트르화가",
+   "name": "몽마르트르화가",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/11_자전거통근_바구니.webp",
+   "slug": "11_자전거통근_바구니",
+   "name": "자전거통근 · 바구니",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/12_캐시미어_마카롱.webp",
+   "slug": "12_캐시미어_마카롱",
+   "name": "캐시미어 · 마카롱",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/13_스웨이드_에비에이터.webp",
+   "slug": "13_스웨이드_에비에이터",
+   "name": "스웨이드 · 에비에이터",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/14_롱코트_베레모_우산.webp",
+   "slug": "14_롱코트_베레모_우산",
+   "name": "롱코트 · 베레모 · 우산",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/15_케이프_책.webp",
+   "slug": "15_케이프_책",
+   "name": "케이프 · 책",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/16_화이트셔츠_메타안경.webp",
+   "slug": "16_화이트셔츠_메타안경",
+   "name": "화이트셔츠 · 메타안경",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/17_레드코트_꽃다발.webp",
+   "slug": "17_레드코트_꽃다발",
+   "name": "레드코트 · 꽃다발",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/18_패션위크_가죽코트.webp",
+   "slug": "18_패션위크_가죽코트",
+   "name": "패션위크 · 가죽코트",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/19_거리악사_아코디언.webp",
+   "slug": "19_거리악사_아코디언",
+   "name": "거리악사 · 아코디언",
+   "group": "파리지앵 2026 가을"
+  },
+  {
+   "file": "assets/paris/20_네이비트렌치_노란머플러.webp",
+   "slug": "20_네이비트렌치_노란머플러",
+   "name": "네이비트렌치 · 노란머플러",
+   "group": "파리지앵 2026 가을"
+  }
+ ],
+ "sebae": [
+  {
+   "file": "assets/sebae/01_마주서서_손모으기.webp",
+   "name": "마주서서 손모으기",
+   "group": "세배 시퀀스",
+   "scene": true
+  },
+  {
+   "file": "assets/sebae/02_무릎꿇기.webp",
+   "name": "무릎꿇기",
+   "group": "세배 시퀀스",
+   "scene": true
+  },
+  {
+   "file": "assets/sebae/03_엎드려절.webp",
+   "name": "엎드려절",
+   "group": "세배 시퀀스",
+   "scene": true
+  },
+  {
+   "file": "assets/sebae/04_일어나며_웃기.webp",
+   "name": "일어나며 웃기",
+   "group": "세배 시퀀스",
+   "scene": true
+  },
+  {
+   "file": "assets/sebae/05_복주머니_환호.webp",
+   "name": "복주머니 환호",
+   "group": "세배 시퀀스",
+   "scene": true
+  }
+ ]
+}
