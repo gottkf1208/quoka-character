@@ -69,12 +69,17 @@ def anchor_crop():
     src = Image.open(A("assets/sheets/01_turnaround.png")).convert("RGB")
     import numpy as np
     a = np.asarray(src); dark = (a.min(axis=2) < 235)
-    cols = dark.any(axis=0); xs = [i for i, v in enumerate(cols) if v]
-    # first figure = first run of non-white columns (allow small gaps)
-    x0 = xs[0]; x1 = x0
-    for i in xs:
-        if i - x1 > 40: break
-        x1 = i
+    # column occupancy; split figures at white gaps at least 6px wide, keep the first wide segment
+    occ = dark.sum(axis=0) > 2
+    segs, start = [], None
+    for i, v in enumerate(list(occ) + [False]):
+        if v and start is None: start = i
+        if not v and start is not None:
+            if segs and i - 0 >= 0 and start - segs[-1][1] < 6: segs[-1] = (segs[-1][0], i)
+            else: segs.append((start, i))
+            start = None
+    segs = [sg for sg in segs if sg[1] - sg[0] > src.width * 0.08]
+    x0, x1 = segs[0]
     rows = dark[:, x0:x1].any(axis=1); ys = [i for i, v in enumerate(rows) if v]
     pad = 20
     crop = src.crop((max(0, x0 - pad), max(0, ys[0] - pad), min(src.width, x1 + pad), min(src.height, ys[-1] + pad))).convert("RGBA")
