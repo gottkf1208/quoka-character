@@ -96,14 +96,14 @@ paste_center(im, fit(base, 560, 560), (BX0 + GUT) / 2, (BY0 + BY1) / 2 + 10)
 d = ImageDraw.Draw(im)
 x = GUT + 48; y = BY0 + 70
 d.text((x, y), "쿼카 공식 캐릭터", font=f(50, True), fill=INK); y += 70
-d.text((x, y), "언제 뽑아도 같은 얼굴이 나오도록 이 이미지를 기준으로 삼아요.", font=f(19), fill=SUB); y += 48
+d.text((x, y), "앵커 = 캐릭터 생김새의 기준 이미지. 매번 참조로 첨부해 같은 얼굴을 받아요.", font=f(19), fill=SUB); y += 48
 rows = [("모델", "gpt_image_2_5 (Higgsfield)"), ("참조 역할", "image_references"), ("media_id", "270a5b4d-6cb1-41fc-bd67-9608277bc648"),
         ("의상·포즈", "quality medium · 2:3 · transparent · 0.5cr"), ("장면·릴스", "quality high · 9:16 또는 16:9 · 1.5cr"), ("시트", "quality high · 16:9 · opaque · 1.5cr")]
 for k, v in rows:
     d.text((x, y), k, font=f(16, True), fill=MUTED); d.text((x + 120, y), v, font=f(17), fill=INK); y += 36
     d.line((x, y - 6, BX1 - 48, y - 6), fill=LINE)
 y += 14; px = x
-for t, fg, bg in (("낙엽 없음", RED, REDBG), ("얼굴 폭 고정", RED, REDBG), ("눈 간격 고정", GREEN, GREENBG), ("골든 브라운", GREEN, GREENBG)):
+for t, fg, bg in (("얼굴 폭 고정", RED, REDBG), ("눈 간격 고정", GREEN, GREENBG), ("짧은 주둥이", GREEN, GREENBG), ("골든 브라운", GREEN, GREENBG)):
     px = pill(d, px, y, t, fg, bg, f(15, True))
 save(im, 1, "cover")
 
@@ -195,7 +195,7 @@ header(d, "CONSISTENCY RULES", 'L', 10); header(d, "일관성 규칙", 'R', 10)
 do = ["앵커 이미지를 image_references로 첨부하고 마스터 프롬프트로 시작해요.", "둥근 머리 · 큰 검은 눈 · 작은 코 · 짧은 주둥이 · 작고 둥근 귀. 비율을 바꾸는 말은 넣지 않아요.",
       "새 의상 세트는 키비주얼부터 뽑고, 포즈는 그 키비주얼을 참조해요.", "소품은 한 개만. 모자·베레모·헤드폰은 허용.", "투명 PNG → 여백 트림 → 세로 900px webp로 저장(극장 규격)."]
 dont = ["얼굴을 넓적하게 그리는 표현(wide face, chubby cheeks). 몸은 통통해도 얼굴 폭은 고정.", "앵커 없이 글로만 생성하기. 다른 캐릭터가 나와요.",
-        "머리 위 낙엽. 'nothing on the head, no autumn leaf'를 항상 넣어요.", "이미지 안 한국어 글자. 글자는 편집 단계에서 얹어요.", "실존 브랜드 로고 소품, 중국풍 요소(홍등·매듭·금박 처마)."]
+        "이미지 안 한국어 글자. 글자는 편집 단계에서 얹어요.", "실존 브랜드 로고 소품, 중국풍 요소(홍등·매듭·금박 처마)."]
 for page, (title, items, fg, bg, mark) in enumerate((("해도 되는 것", do, GREEN, GREENBG, "✓"), ("하지 말 것", dont, RED, REDBG, "✕"))):
     x = (BX0 if page == 0 else GUT) + 40; y = BY0 + 60
     d.text((x, y), title, font=f(30, True), fill=INK); y += 64
