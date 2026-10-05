@@ -4358,5 +4358,1555 @@
   "bg": null,
   "refs": [],
   "note": "블로그 인포그래픽"
+ },
+ "assets/char/t7-sonnet-opus-55_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn street style: black leather biker jacket over a white t-shirt, slim dark jeans, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-sonnet-opus-55_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn street style: black leather biker jacket over a white t-shirt, slim dark jeans, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-sonnet-opus-55_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn street style: black leather biker jacket over a white t-shirt, slim dark jeans, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-sonnet-opus-55_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn street style: black leather biker jacket over a white t-shirt, slim dark jeans, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gpt6-sol-luna_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: classic beige belted trench coat, holding a paper bag with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gpt6-sol-luna_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: classic beige belted trench coat, holding a paper bag with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gpt6-sol-luna_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: classic beige belted trench coat, holding a paper bag with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gpt6-sol-luna_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: classic beige belted trench coat, holding a paper bag with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-argon-staged_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian style: navy and white Breton striped boat-neck top, red beret, small red neck scarf. No autumn leaf anywhere). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-argon-staged_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian style: navy and white Breton striped boat-neck top, red beret, small red neck scarf. No autumn leaf anywhere). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-argon-staged_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian style: navy and white Breton striped boat-neck top, red beret, small red neck scarf. No autumn leaf anywhere). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-argon-staged_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian style: navy and white Breton striped boat-neck top, red beret, small red neck scarf. No autumn leaf anywhere). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-prompt-caching_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: camel wool overcoat over a cream turtleneck, small black crossbody bag. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-prompt-caching_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: camel wool overcoat over a cream turtleneck, small black crossbody bag. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-prompt-caching_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: camel wool overcoat over a cream turtleneck, small black crossbody bag. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-prompt-caching_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: camel wool overcoat over a cream turtleneck, small black crossbody bag. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-model-retirement_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian intellectual style: black turtleneck, grey check wool trousers, round thin gold-rimmed glasses. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-model-retirement_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian intellectual style: black turtleneck, grey check wool trousers, round thin gold-rimmed glasses. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-model-retirement_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian intellectual style: black turtleneck, grey check wool trousers, round thin gold-rimmed glasses. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-model-retirement_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian intellectual style: black turtleneck, grey check wool trousers, round thin gold-rimmed glasses. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-solar-mini4-moe_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian chic: cream and black tweed jacket with a small ribbon bow, a tiny quilted black handbag on a chain. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-solar-mini4-moe_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian chic: cream and black tweed jacket with a small ribbon bow, a tiny quilted black handbag on a chain. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-solar-mini4-moe_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian chic: cream and black tweed jacket with a small ribbon bow, a tiny quilted black handbag on a chain. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-solar-mini4-moe_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian chic: cream and black tweed jacket with a small ribbon bow, a tiny quilted black handbag on a chain. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-dots-autopilot_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy double-breasted pea coat, grey knit beanie, chunky grey scarf. No autumn leaf anywhere). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-dots-autopilot_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy double-breasted pea coat, grey knit beanie, chunky grey scarf. No autumn leaf anywhere). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-dots-autopilot_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy double-breasted pea coat, grey knit beanie, chunky grey scarf. No autumn leaf anywhere). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-dots-autopilot_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy double-breasted pea coat, grey knit beanie, chunky grey scarf. No autumn leaf anywhere). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agent-sandbox_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian evening style: burgundy velvet blazer over a black shirt, patterned silk scarf tucked at the neck. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agent-sandbox_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian evening style: burgundy velvet blazer over a black shirt, patterned silk scarf tucked at the neck. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agent-sandbox_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian evening style: burgundy velvet blazer over a black shirt, patterned silk scarf tucked at the neck. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agent-sandbox_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian evening style: burgundy velvet blazer over a black shirt, patterned silk scarf tucked at the neck. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gemini-skills_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris cafe barista: white shirt with rolled sleeves, long black waist apron, holding a small espresso cup on a saucer. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gemini-skills_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris cafe barista: white shirt with rolled sleeves, long black waist apron, holding a small espresso cup on a saucer. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gemini-skills_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris cafe barista: white shirt with rolled sleeves, long black waist apron, holding a small espresso cup on a saucer. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-gemini-skills_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris cafe barista: white shirt with rolled sleeves, long black waist apron, holding a small espresso cup on a saucer. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-whale-ai-chat_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Montmartre artist: black beret, blue denim work jacket with paint smudges, holding a sketchbook and a pencil. No autumn leaf anywhere). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-whale-ai-chat_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Montmartre artist: black beret, blue denim work jacket with paint smudges, holding a sketchbook and a pencil. No autumn leaf anywhere). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-whale-ai-chat_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Montmartre artist: black beret, blue denim work jacket with paint smudges, holding a sketchbook and a pencil. No autumn leaf anywhere). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-whale-ai-chat_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Montmartre artist: black beret, blue denim work jacket with paint smudges, holding a sketchbook and a pencil. No autumn leaf anywhere). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-ai-monitor_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bike commuter: olive green waxed field jacket, striped scarf, holding a small wicker basket with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-ai-monitor_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bike commuter: olive green waxed field jacket, striped scarf, holding a small wicker basket with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-ai-monitor_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bike commuter: olive green waxed field jacket, striped scarf, holding a small wicker basket with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-ai-monitor_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bike commuter: olive green waxed field jacket, striped scarf, holding a small wicker basket with a baguette. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agentic-privacy_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian soft style: cream cashmere cardigan, beige wide trousers, holding a pastel box of macarons. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agentic-privacy_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian soft style: cream cashmere cardigan, beige wide trousers, holding a pastel box of macarons. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agentic-privacy_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian soft style: cream cashmere cardigan, beige wide trousers, holding a pastel box of macarons. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-agentic-privacy_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian soft style: cream cashmere cardigan, beige wide trousers, holding a pastel box of macarons. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-live-avatar_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: brown suede jacket over a white tee, aviator sunglasses, holding a takeaway coffee cup. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-live-avatar_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: brown suede jacket over a white tee, aviator sunglasses, holding a takeaway coffee cup. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-live-avatar_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: brown suede jacket over a white tee, aviator sunglasses, holding a takeaway coffee cup. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-live-avatar_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: brown suede jacket over a white tee, aviator sunglasses, holding a takeaway coffee cup. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-voice-design_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian rainy-day style: long grey wool coat, black beret, holding a closed black umbrella like a cane. No autumn leaf anywhere). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-voice-design_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian rainy-day style: long grey wool coat, black beret, holding a closed black umbrella like a cane. No autumn leaf anywhere). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-voice-design_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian rainy-day style: long grey wool coat, black beret, holding a closed black umbrella like a cane. No autumn leaf anywhere). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-voice-design_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian rainy-day style: long grey wool coat, black beret, holding a closed black umbrella like a cane. No autumn leaf anywhere). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-streaming-stt_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bookshop style: brown check wool cape, mustard scarf, holding a stack of old books. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-streaming-stt_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bookshop style: brown check wool cape, mustard scarf, holding a stack of old books. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-streaming-stt_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bookshop style: brown check wool cape, mustard scarf, holding a stack of old books. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-streaming-stt_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian bookshop style: brown check wool cape, mustard scarf, holding a stack of old books. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-kling4-keyframes_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian minimal style: crisp white shirt, black slim trousers, thin gold chain necklace, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-kling4-keyframes_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian minimal style: crisp white shirt, black slim trousers, thin gold chain necklace, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-kling4-keyframes_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian minimal style: crisp white shirt, black slim trousers, thin gold chain necklace, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-kling4-keyframes_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian minimal style: crisp white shirt, black slim trousers, thin gold chain necklace, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-audio-glasses-exam_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: bright red wool coat, black leather gloves, holding a small bouquet of white flowers wrapped in paper. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-audio-glasses-exam_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: bright red wool coat, black leather gloves, holding a small bouquet of white flowers wrapped in paper. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-audio-glasses-exam_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: bright red wool coat, black leather gloves, holding a small bouquet of white flowers wrapped in paper. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-audio-glasses-exam_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: bright red wool coat, black leather gloves, holding a small bouquet of white flowers wrapped in paper. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-guided-vision_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris fashion week style: long black leather coat, oversized black sunglasses, black leather tote bag. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-guided-vision_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris fashion week style: long black leather coat, oversized black sunglasses, black leather tote bag. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-guided-vision_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris fashion week style: long black leather coat, oversized black sunglasses, black leather tote bag. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-guided-vision_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris fashion week style: long black leather coat, oversized black sunglasses, black leather tote bag. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-synthid-bio-labels_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris street musician: burgundy leather jacket, striped shirt, holding a small red accordion. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-synthid-bio-labels_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris street musician: burgundy leather jacket, striped shirt, holding a small red accordion. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-synthid-bio-labels_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris street musician: burgundy leather jacket, striped shirt, holding a small red accordion. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-synthid-bio-labels_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Paris street musician: burgundy leather jacket, striped shirt, holding a small red accordion. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-distillation-defense_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy trench coat, bright yellow knit scarf, round tortoiseshell glasses, holding a small folded map of Paris. Nothing on top of the head, no autumn leaf). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-distillation-defense_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy trench coat, bright yellow knit scarf, round tortoiseshell glasses, holding a small folded map of Paris. Nothing on top of the head, no autumn leaf). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-distillation-defense_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy trench coat, bright yellow knit scarf, round tortoiseshell glasses, holding a small folded map of Paris. Nothing on top of the head, no autumn leaf). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-distillation-defense_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (Parisian autumn style: navy trench coat, bright yellow knit scarf, round tortoiseshell glasses, holding a small folded map of Paris. Nothing on top of the head, no autumn leaf). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [
+   "paris key job"
+  ],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-training-copyright.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, smart casual: navy wool blazer over a light grey hoodie, white sneakers, holding a slim silver laptop under one arm. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-training-copyright_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (smart casual: navy wool blazer over a light grey hoodie, white sneakers, holding a slim silver laptop under one arm). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-training-copyright_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (smart casual: navy wool blazer over a light grey hoodie, white sneakers, holding a slim silver laptop under one arm). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-training-copyright_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (smart casual: navy wool blazer over a light grey hoodie, white sneakers, holding a slim silver laptop under one arm). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-training-copyright_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (smart casual: navy wool blazer over a light grey hoodie, white sneakers, holding a slim silver laptop under one arm). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-mentalhealthbench.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, soft style: lavender cable-knit sweater, off-white wide trousers, small pearl-colored crossbody bag. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-mentalhealthbench_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (soft style: lavender cable-knit sweater, off-white wide trousers, small pearl-colored crossbody bag). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-mentalhealthbench_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (soft style: lavender cable-knit sweater, off-white wide trousers, small pearl-colored crossbody bag). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-mentalhealthbench_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (soft style: lavender cable-knit sweater, off-white wide trousers, small pearl-colored crossbody bag). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-mentalhealthbench_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (soft style: lavender cable-knit sweater, off-white wide trousers, small pearl-colored crossbody bag). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-safety-case.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, street style: olive green bomber jacket over a black tee, beige cargo pants, holding a skateboard upright. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-safety-case_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (street style: olive green bomber jacket over a black tee, beige cargo pants, holding a skateboard upright). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-safety-case_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (street style: olive green bomber jacket over a black tee, beige cargo pants, holding a skateboard upright). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-safety-case_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (street style: olive green bomber jacket over a black tee, beige cargo pants, holding a skateboard upright). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-safety-case_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (street style: olive green bomber jacket over a black tee, beige cargo pants, holding a skateboard upright). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-open-weight-jailbreak.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, reporter style: beige corduroy jacket over a white shirt, round clear-frame glasses, a small notebook and pen in one paw. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-open-weight-jailbreak_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (reporter style: beige corduroy jacket over a white shirt, round clear-frame glasses, a small notebook and pen in one paw). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-open-weight-jailbreak_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (reporter style: beige corduroy jacket over a white shirt, round clear-frame glasses, a small notebook and pen in one paw). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-open-weight-jailbreak_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (reporter style: beige corduroy jacket over a white shirt, round clear-frame glasses, a small notebook and pen in one paw). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-open-weight-jailbreak_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (reporter style: beige corduroy jacket over a white shirt, round clear-frame glasses, a small notebook and pen in one paw). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-research-ethics-guide.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, early winter: mint green puffer jacket, cream fleece scarf, holding a paper cup of hot chocolate. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-research-ethics-guide_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (early winter: mint green puffer jacket, cream fleece scarf, holding a paper cup of hot chocolate). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-research-ethics-guide_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (early winter: mint green puffer jacket, cream fleece scarf, holding a paper cup of hot chocolate). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-research-ethics-guide_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (early winter: mint green puffer jacket, cream fleece scarf, holding a paper cup of hot chocolate). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-research-ethics-guide_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (early winter: mint green puffer jacket, cream fleece scarf, holding a paper cup of hot chocolate). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-public-ai-ethics.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, teacher style: burgundy cardigan over a blue check shirt, grey trousers, a lanyard with a blank ID card. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-public-ai-ethics_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (teacher style: burgundy cardigan over a blue check shirt, grey trousers, a lanyard with a blank ID card). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-public-ai-ethics_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (teacher style: burgundy cardigan over a blue check shirt, grey trousers, a lanyard with a blank ID card). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-public-ai-ethics_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (teacher style: burgundy cardigan over a blue check shirt, grey trousers, a lanyard with a blank ID card). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-public-ai-ethics_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (teacher style: burgundy cardigan over a blue check shirt, grey trousers, a lanyard with a blank ID card). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-topik-ai-grading.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, host style: black dress shirt, white skinny tie, charcoal waistcoat, holding a small microphone. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-topik-ai-grading_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (host style: black dress shirt, white skinny tie, charcoal waistcoat, holding a small microphone). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-topik-ai-grading_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (host style: black dress shirt, white skinny tie, charcoal waistcoat, holding a small microphone). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-topik-ai-grading_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (host style: black dress shirt, white skinny tie, charcoal waistcoat, holding a small microphone). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-topik-ai-grading_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (host style: black dress shirt, white skinny tie, charcoal waistcoat, holding a small microphone). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-fact-check-campaign.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, maker style: blue denim overalls over a yellow t-shirt, a small screwdriver in the chest pocket, holding a tiny robot toy. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-fact-check-campaign_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (maker style: blue denim overalls over a yellow t-shirt, a small screwdriver in the chest pocket, holding a tiny robot toy). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-fact-check-campaign_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (maker style: blue denim overalls over a yellow t-shirt, a small screwdriver in the chest pocket, holding a tiny robot toy). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-fact-check-campaign_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (maker style: blue denim overalls over a yellow t-shirt, a small screwdriver in the chest pocket, holding a tiny robot toy). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-fact-check-campaign_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (maker style: blue denim overalls over a yellow t-shirt, a small screwdriver in the chest pocket, holding a tiny robot toy). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-deepfake-response.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, tech style: grey technical shell jacket with orange zipper, black joggers, white over-ear headphones around the neck. Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-deepfake-response_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (tech style: grey technical shell jacket with orange zipper, black joggers, white over-ear headphones around the neck). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-deepfake-response_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (tech style: grey technical shell jacket with orange zipper, black joggers, white over-ear headphones around the neck). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-deepfake-response_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (tech style: grey technical shell jacket with orange zipper, black joggers, white over-ear headphones around the neck). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-deepfake-response_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (tech style: grey technical shell jacket with orange zipper, black joggers, white over-ear headphones around the neck). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-super-intelligence-word.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image: keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, same short snout, same small rounded ears, plush golden-brown fur with a lighter cream chest, small black nose, dark brown paws, nothing on the head, no autumn leaf. New outfit, artist style: cream trench coat, forest green beret, a small sketchbook under one arm (the beret is the only thing on the head). Standing full body, friendly smile, front view. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 새 의상"
+ },
+ "assets/char/t7-super-intelligence-word_point.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (artist style: cream trench coat, forest green beret, a small sketchbook under one arm (the beret is the only thing on the head)). New pose: standing, pointing to the side with one paw as if explaining, friendly smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-super-intelligence-word_think.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (artist style: cream trench coat, forest green beret, a small sketchbook under one arm (the beret is the only thing on the head)). New pose: standing, one paw on chin, looking up thoughtfully, curious expression. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-super-intelligence-word_oops.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (artist style: cream trench coat, forest green beret, a small sketchbook under one arm (the beret is the only thing on the head)). New pose: standing, surprised, both paws on cheeks, mouth open. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/char/t7-super-intelligence-word_wave.webp": {
+  "prompt": "Exactly the same cute 3D quokka character and exactly the same outfit and accessories as the reference image (artist style: cream trench coat, forest green beret, a small sketchbook under one arm (the beret is the only thing on the head)). New pose: standing, one arm raised high waving hello, big happy smile. Keep the exact head shape and face proportions of the reference, do not widen or flatten the face, same eye size and spacing, nothing on the head except what the outfit already has. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": "transparent",
+  "refs": [],
+  "note": "시즌 777 의상 포즈"
+ },
+ "assets/samples/t7-sonnet-opus-55.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn street style: black leather biker jacket over a white t-shirt, slim dark jeans, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-gpt6-sol-luna.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: classic beige belted trench coat, holding a paper bag with a baguette. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-argon-staged.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian style: navy and white Breton striped boat-neck top, red beret, small red neck scarf. No autumn leaf anywhere. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-prompt-caching.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: camel wool overcoat over a cream turtleneck, small black crossbody bag. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-model-retirement.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian intellectual style: black turtleneck, grey check wool trousers, round thin gold-rimmed glasses. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-solar-mini4-moe.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian chic: cream and black tweed jacket with a small ribbon bow, a tiny quilted black handbag on a chain. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-dots-autopilot.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: navy double-breasted pea coat, grey knit beanie, chunky grey scarf. No autumn leaf anywhere. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-agent-sandbox.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian evening style: burgundy velvet blazer over a black shirt, patterned silk scarf tucked at the neck. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-gemini-skills.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Paris cafe barista: white shirt with rolled sleeves, long black waist apron, holding a small espresso cup on a saucer. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-whale-ai-chat.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Montmartre artist: black beret, blue denim work jacket with paint smudges, holding a sketchbook and a pencil. No autumn leaf anywhere. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-ai-monitor.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian bike commuter: olive green waxed field jacket, striped scarf, holding a small wicker basket with a baguette. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-agentic-privacy.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian soft style: cream cashmere cardigan, beige wide trousers, holding a pastel box of macarons. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-live-avatar.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: brown suede jacket over a white tee, aviator sunglasses, holding a takeaway coffee cup. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-voice-design.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian rainy-day style: long grey wool coat, black beret, holding a closed black umbrella like a cane. No autumn leaf anywhere. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-streaming-stt.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian bookshop style: brown check wool cape, mustard scarf, holding a stack of old books. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-kling4-keyframes.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian minimal style: crisp white shirt, black slim trousers, thin gold chain necklace, black smart glasses with thin frames (Meta glasses style). Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-audio-glasses-exam.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: bright red wool coat, black leather gloves, holding a small bouquet of white flowers wrapped in paper. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-guided-vision.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Paris fashion week style: long black leather coat, oversized black sunglasses, black leather tote bag. Nothing on top of the head, no autumn leaf. Standing full body, confident smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-synthid-bio-labels.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Paris street musician: burgundy leather jacket, striped shirt, holding a small red accordion. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
+ },
+ "assets/samples/t7-distillation-defense.webp": {
+  "prompt": "Exactly the same cute 3D quokka character as the reference image (same face, fur, proportions). New outfit, Parisian autumn style: navy trench coat, bright yellow knit scarf, round tortoiseshell glasses, holding a small folded map of Paris. Nothing on top of the head, no autumn leaf. Standing full body, friendly smile. Transparent background, no shadow, no text.",
+  "model": "gpt_image_2_5",
+  "quality": "medium",
+  "ar": "2:3",
+  "bg": null,
+  "refs": [
+   "270a5b4d-6cb1-41fc-bd67-9608277bc648"
+  ],
+  "note": "시즌 777 의상 키비주얼(파리지앵)"
  }
 }

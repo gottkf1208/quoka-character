@@ -1175,6 +1175,876 @@
      "name": "인사"
     }
    ]
+  },
+  {
+   "file": "assets/samples/t7-sonnet-opus-55.webp",
+   "slug": "t7-sonnet-opus-55",
+   "name": "E41 가죽재킷·메타안경",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-sonnet-opus-55_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-sonnet-opus-55_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-sonnet-opus-55_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-sonnet-opus-55_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-gpt6-sol-luna.webp",
+   "slug": "t7-gpt6-sol-luna",
+   "name": "E42 트렌치코트·바게트",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-gpt6-sol-luna_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-gpt6-sol-luna_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-gpt6-sol-luna_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-gpt6-sol-luna_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-argon-staged.webp",
+   "slug": "t7-argon-staged",
+   "name": "E43 브르통·베레모",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-argon-staged_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-argon-staged_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-argon-staged_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-argon-staged_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-prompt-caching.webp",
+   "slug": "t7-prompt-caching",
+   "name": "E44 카멜코트·터틀넥",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-prompt-caching_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-prompt-caching_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-prompt-caching_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-prompt-caching_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-model-retirement.webp",
+   "slug": "t7-model-retirement",
+   "name": "E45 블랙터틀넥·금테안경",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-model-retirement_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-model-retirement_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-model-retirement_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-model-retirement_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-solar-mini4-moe.webp",
+   "slug": "t7-solar-mini4-moe",
+   "name": "E46 트위드재킷·핸드백",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-solar-mini4-moe_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-solar-mini4-moe_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-solar-mini4-moe_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-solar-mini4-moe_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-dots-autopilot.webp",
+   "slug": "t7-dots-autopilot",
+   "name": "E47 피코트·비니",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-dots-autopilot_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-dots-autopilot_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-dots-autopilot_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-dots-autopilot_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-agent-sandbox.webp",
+   "slug": "t7-agent-sandbox",
+   "name": "E48 벨벳블레이저·스카프",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-agent-sandbox_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-agent-sandbox_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-agent-sandbox_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-agent-sandbox_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-gemini-skills.webp",
+   "slug": "t7-gemini-skills",
+   "name": "E49 카페 바리스타",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-gemini-skills_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-gemini-skills_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-gemini-skills_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-gemini-skills_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-whale-ai-chat.webp",
+   "slug": "t7-whale-ai-chat",
+   "name": "E50 몽마르트르 화가",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-whale-ai-chat_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-whale-ai-chat_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-whale-ai-chat_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-whale-ai-chat_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-ai-monitor.webp",
+   "slug": "t7-ai-monitor",
+   "name": "E51 자전거 통근·바구니",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-ai-monitor_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-ai-monitor_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-ai-monitor_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-ai-monitor_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-agentic-privacy.webp",
+   "slug": "t7-agentic-privacy",
+   "name": "E52 캐시미어·마카롱",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-agentic-privacy_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-agentic-privacy_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-agentic-privacy_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-agentic-privacy_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-live-avatar.webp",
+   "slug": "t7-live-avatar",
+   "name": "E53 스웨이드·에비에이터",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-live-avatar_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-live-avatar_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-live-avatar_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-live-avatar_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-voice-design.webp",
+   "slug": "t7-voice-design",
+   "name": "E54 롱코트·베레모·우산",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-voice-design_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-voice-design_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-voice-design_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-voice-design_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-streaming-stt.webp",
+   "slug": "t7-streaming-stt",
+   "name": "E55 케이프·책",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-streaming-stt_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-streaming-stt_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-streaming-stt_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-streaming-stt_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-kling4-keyframes.webp",
+   "slug": "t7-kling4-keyframes",
+   "name": "E56 화이트셔츠·메타안경",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-kling4-keyframes_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-kling4-keyframes_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-kling4-keyframes_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-kling4-keyframes_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-audio-glasses-exam.webp",
+   "slug": "t7-audio-glasses-exam",
+   "name": "E57 레드코트·꽃다발",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-audio-glasses-exam_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-audio-glasses-exam_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-audio-glasses-exam_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-audio-glasses-exam_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-guided-vision.webp",
+   "slug": "t7-guided-vision",
+   "name": "E58 패션위크 가죽코트",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-guided-vision_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-guided-vision_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-guided-vision_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-guided-vision_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-synthid-bio-labels.webp",
+   "slug": "t7-synthid-bio-labels",
+   "name": "E59 거리악사·아코디언",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-synthid-bio-labels_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-synthid-bio-labels_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-synthid-bio-labels_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-synthid-bio-labels_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-distillation-defense.webp",
+   "slug": "t7-distillation-defense",
+   "name": "E60 네이비트렌치·노란머플러",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-distillation-defense_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-distillation-defense_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-distillation-defense_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-distillation-defense_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-training-copyright.webp",
+   "slug": "t7-training-copyright",
+   "name": "E61 네이비 블레이저·회색 후드",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-training-copyright_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-training-copyright_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-training-copyright_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-training-copyright_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-mentalhealthbench.webp",
+   "slug": "t7-mentalhealthbench",
+   "name": "E62 라벤더 니트",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-mentalhealthbench_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-mentalhealthbench_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-mentalhealthbench_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-mentalhealthbench_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-safety-case.webp",
+   "slug": "t7-safety-case",
+   "name": "E63 올리브 봄버·스케이트보드",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-safety-case_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-safety-case_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-safety-case_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-safety-case_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-open-weight-jailbreak.webp",
+   "slug": "t7-open-weight-jailbreak",
+   "name": "E64 코듀로이 재킷·안경",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-open-weight-jailbreak_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-open-weight-jailbreak_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-open-weight-jailbreak_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-open-weight-jailbreak_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-research-ethics-guide.webp",
+   "slug": "t7-research-ethics-guide",
+   "name": "E65 민트 패딩·코코아",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-research-ethics-guide_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-research-ethics-guide_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-research-ethics-guide_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-research-ethics-guide_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-public-ai-ethics.webp",
+   "slug": "t7-public-ai-ethics",
+   "name": "E66 버건디 가디건·명찰",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-public-ai-ethics_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-public-ai-ethics_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-public-ai-ethics_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-public-ai-ethics_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-topik-ai-grading.webp",
+   "slug": "t7-topik-ai-grading",
+   "name": "E67 검정 셔츠·흰 넥타이·마이크",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-topik-ai-grading_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-topik-ai-grading_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-topik-ai-grading_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-topik-ai-grading_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-fact-check-campaign.webp",
+   "slug": "t7-fact-check-campaign",
+   "name": "E68 데님 오버롤·로봇",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-fact-check-campaign_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-fact-check-campaign_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-fact-check-campaign_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-fact-check-campaign_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-deepfake-response.webp",
+   "slug": "t7-deepfake-response",
+   "name": "E69 테크 재킷·헤드폰",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-deepfake-response_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-deepfake-response_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-deepfake-response_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-deepfake-response_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
+  },
+  {
+   "file": "assets/samples/t7-super-intelligence-word.webp",
+   "slug": "t7-super-intelligence-word",
+   "name": "E70 크림 트렌치·초록 베레",
+   "group": "시즌 777",
+   "dup": false,
+   "poses": [
+    {
+     "file": "assets/char/t7-super-intelligence-word_point.webp",
+     "pose": "point",
+     "name": "가리키기"
+    },
+    {
+     "file": "assets/char/t7-super-intelligence-word_think.webp",
+     "pose": "think",
+     "name": "생각"
+    },
+    {
+     "file": "assets/char/t7-super-intelligence-word_oops.webp",
+     "pose": "oops",
+     "name": "놀람"
+    },
+    {
+     "file": "assets/char/t7-super-intelligence-word_wave.webp",
+     "pose": "wave",
+     "name": "인사"
+    }
+   ]
   }
  ],
  "paris": [
